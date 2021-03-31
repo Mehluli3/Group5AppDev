@@ -1,5 +1,6 @@
 package za.ac.cput;
 //This is a test file for my GoodFilms class
+//Dlamini M 219105359 - App Dev 3 2021 March
 import org.junit.jupiter.api.*;
 
 import static org.junit.jupiter.api.Assertions.*;
